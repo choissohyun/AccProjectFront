@@ -1,6 +1,12 @@
 <<<<<<< HEAD
 # AccProjectFront
 =======
+- 2023.04~2023.05 (6명) 
+- Vue.js를 활용한 ERP회계시스템 구현
+- Vuex 상태관리
+- BootstrapVue, VueGoodTable 사용 
+- 
+
 #  HOO
 #### sweetAlert 공통단 등록완료
 ##### 사용법 : import sweetfire from '@/api/sweetFire'
